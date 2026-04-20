@@ -1,0 +1,52 @@
+MODEL,VOLUME,WIDTH,LENGTH,THICKNESS,BOARD TECHNOLOGIES,REC. SAIL SIZES
+Quad TE 69 NEW SHAPE,69 l,53.5 cm,224 cm,—,IC / LF,3.3 – 5.0 m2
+Quad TE 75 NEW SHAPE,75 l,55.5 cm,225 cm,—,IC / LF,3.7 – 5.3 m2
+Quad TE 81 NEW SHAPE,81 l,57.5 cm,226 cm,—,IC / LF,4.0 – 5.8 m2
+Quad TE 90 NEW SHAPE,90 l,59.5 cm,227 cm,—,IC / LF,4.2 – 6.5 m2
+Stubby TE 77 NEW SHAPE,77 l,55 cm,212 cm,—,IC / LF,3.3 – 5.3 m2
+Stubby TE 88 NEW SHAPE,88 l,57.5 cm,215 cm,—,IC / LF,4.0 – 5.8 m2
+TriWave TE 74 NEW SHAPE,74 l,56 cm,222 cm,—,IC / LF,3.5 – 5.3 m2
+TriWave TE 82 NEW SHAPE,82 l,58 cm,224 cm,—,IC / LF,4.0 – 5.8 m2
+TriWave TE 89 NEW SHAPE,89 l,59.5 cm,227 cm,—,IC / LF,4.2 – 6.2 m2
+TriWave TE 99 NEW SHAPE,99 l,62 cm,229 cm,—,IC / LF,4.5 – 6.7 m2
+FreeWave TE 76; FreeWave CWS 76,76 l,56 cm,232 cm,—,IC / LF; CWS,3.7 – 6.0 m2
+FreeWave TeXtreme® 86; FreeWave TE 86; FreeWave CWS 86,86 l,58.5 cm,233 cm,—,TeXtreme® IC / LF; IC / LF; CWS,4.2 – 6.5 m2
+FreeWave TeXtreme® 96; FreeWave TE 96; FreeWave CWS 96,96 l,61 cm,234 cm,—,TeXtreme® IC / LF; IC / LF; CWS,4.5 – 6.7 m2
+FreeWave TeXtreme® 106; FreeWave TE 106; FreeWave CWS 106,106 l,63.5 cm,235 cm,—,TeXtreme® IC / LF; IC / LF; CWS,4.7 – 7.0 m2
+FreeWave TE 116; FreeWave CWS 116,116 l,66 cm,236 cm,—,IC / LF; CWS,5.0 – 7.3 m2
+Skate TE 86 NEW SHAPE,86 l,60 cm,228 cm,—,IC / LF,3.7 – 5.9 m2
+Skate TE 94 NEW SHAPE,94 l,62 cm,228 cm,—,IC / LF,4.2 – 6.4 m2
+Skate TE 100 NEW SHAPE,100 l,64 cm,228 cm,—,IC / LF,4.5 – 7.0 m2
+Skate TE 108 NEW SHAPE,108 l,66.5 cm,226 cm,—,IC / LF,5.0 – 7.5 m2
+Skate 100,100 l,63.5 cm,235 cm,—,BGS / LF,4.5 – 7.0 m2
+Skate 110,110 l,66.5 cm,237 cm,—,BGS / LF,5.0 – 7.5 m2
+Hawk LTD 99; Hawk Bamboo 99,99 l,62 cm,239 cm,—,IC / BSLT / LF; BOS / LF,4.5 – 7.5 m2
+Hawk LTD 113; Hawk Bamboo 113,113 l,66 cm,241 cm,—,IC / BSLT / LF; BOS / LF,5.0 – 8.0 m2
+Hawk LTD 124; Hawk Bamboo 124,124 l,70 cm,242 cm,—,IC / BSLT / LF; BOS / LF,5.5 – 8.5 m2
+Gecko LTD 98; Gecko Bamboo 98; Gecko HRS 98,98 l,63 cm,239 cm,—,IC / BSLT / LF; BOS / LF; HRS,4.5 – 7.5 m2
+Gecko LTD 105; Gecko Bamboo 105; Gecko HRS 105,105 l,69 cm,239 cm,—,IC / BSLT / LF; BOS / LF; HRS,5.0 – 8.0 m2
+Gecko LTD 112; Gecko Bamboo 112; Gecko HRS 112,112 l,73 cm,239 cm,—,IC / BSLT / LF; BOS / LF; HRS,5.5 – 8.5 m2
+Gecko LTD 120; Gecko Bamboo 120; Gecko HRS 120,120 l,76 cm,242 cm,—,IC / BSLT / LF; BOS / LF; HRS,6.0 – 9.0 m2
+Gecko LTD 133; Gecko Bamboo 133; Gecko HRS 133,133 l,78 cm,246 cm,—,IC / BSLT / LF; BOS / LF; HRS,7.5 – 9.5 m2
+Gecko LTD 146; Gecko Bamboo 146; Gecko HRS 146,146 l,83 cm,250 cm,—,IC / BSLT / LF; BOS / LF; HRS,7.0 – 10.0 m2
+Gecko Bamboo 156+; Gecko HRS 156+,156 l,85 cm,252 cm,—,BOS / LF; HRS,8.0 – 11.0 m2
+Falcon Slalom TE 90,90 l,59 cm,235 cm,—,BCS / LF,5.0 – 7.8 m2
+Falcon Slalom TE 99; Falcon Slalom 99 NEW SHAPE,99 l,63 cm,235 cm,—,BCS / LF; BGS / LF,5.5 – 8.2 m2
+Falcon Slalom TE 112; Falcon Slalom 112 NEW SHAPE,112 l,70 cm,230 cm,—,Full BCS / LF (Deck & Bottom); BGS / LF,6.0 – 8.6 m2
+Falcon Slalom TE 121; Falcon Slalom 121 NEW SHAPE,121 l,75 cm,230 cm,—,Full BCS / LF (Deck & Bottom); BGS / LF,6.5 – 9.2 m2
+Falcon Slalom TE 129 NEW SHAPE,129 l,80 cm,230 cm,—,Full BCS / LF (Deck & Bottom),6.8 – 9.5 m2
+Falcon Slalom TE 138,138 l,85 cm,230 cm,—,Full BCS / LF (Deck & Bottom),7.0 – 10.0 m2
+Falcon Slalom TE 152,152 l,90 cm,230 cm,—,Full BCS / LF (Deck & Bottom),7.5 – 11.0+ m2
+Falcon Formula 172 NEW SHAPE,172 l,100 cm,230 cm,—,Full BCS / LF (Deck & Bottom),8.0 – 12.5+ m2
+Falcon Speed 44 Lüderitz,54 l,44 cm,230 cm,—,BCS / LF,4.0 – 6.5 m2
+Falcon Speed 50,68 l,50 cm,230 cm,—,BCS / LF,4.5 – 7.0 m2
+Falcon Speed 56,79 l,56 cm,235 cm,—,BCS / LF,4.5 – 7.5 m2
+Viper 70,150 l,70 cm,270 cm,—,HRS – Softdeck,2.0 – 8.0 m2
+Viper 75,160 l,75 cm,275 cm,—,HRS – Softdeck,2.0 – 10.0 m2
+Viper 80,190 l,80 cm,280 cm,—,HRS – Softdeck,2.0 – 10.0 m2
+Viper 85,220 l,85 cm,285 cm,—,HRS – Softdeck,2.0 – 10.0 m2
+Viper 91 NEW SHAPE,240 l,91 cm,290 cm,—,HRS – Softdeck,2.0 – 11.0 m2
+Ripper 102,102 l,69 cm,242 cm,—,HRS – Softdeck,1.5 – 8.0 m2
+Ripper 120,120 l,69 cm,245 cm,—,HRS – Softdeck,1.5 – 8.0 m2
+Viper Air 315 NEW SHAPE,315 l,33.5”/85.1 cm,9’10” / 299.7 cm,6” / 15 cm,Double Layer Heavy Duty,1.5 – 8.5 m2
+Ripper Air WS 187 NEW SHAPE,187 l,29” / 73.7 cm,9’0” / 274.3 cm,4.5” / 11.5 cm,Double Layer Heavy Duty,1.0 – 6.5 m2
