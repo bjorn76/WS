@@ -5,11 +5,11 @@ To keep track of the equipment clean up on
 https://www.gps-speedsurfing.com/
 
 ## GPS-Speedsurfing-Users.xlsx
-A table that generates lins to TTVK speed surfers
+A table of TTVK speed surfers Id
 https://www.gps-speedsurfing.com/
 
 ## GPS-Speedsurfing-Board-Stats.xlsx
-A table with links to Boards Statistics
+A table of Boards Id to generat Statistics links
 https://www.gps-speedsurfing.com/
 
 ## WS_Boards.xlsx
