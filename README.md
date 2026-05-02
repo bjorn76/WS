@@ -1,22 +1,25 @@
 # WS - Windsurfing - ReadME
 
-## WS_Sails.xlsx
-A reference "database" of sailsS
+## GPS-Speedsurfing_Equipment_Cleanup.xls
 
-## WS_Sails.xlsx
-A reference "database" of sails
+## GPS-Speedsurfing-Users.xlsx
 
-## WS_Sails.xlsx
-A referense "database" of sails
+## GPS-Speedsurfing-Board-Stats.xlsx
 
 ## WS_Boards.xlsx
 A referense "database" of boards
 
-## KoF (King of the Fjord)
-A folder for the TTVK's yearly speed competitions. (Weekends from May to Sep)
+## WS_Sails.xlsx
+A referense "database" of sails
 
 ## BoardsSourceData
 A folder to store Boards specs in pdf format
 
 ## SailsSourceData
 A folder to store sail specs in pdf format
+
+
+## KoF (King of the Fjord)
+A folder for the TTVK's yearly speed competitions. (Weekends from May to Sep)
+
+
