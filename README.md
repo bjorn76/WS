@@ -1,9 +1,7 @@
-WS ReadNMe
+WS ReadMe
 ****************************
 
-WS_Sails.xlsx
-==============
-A reference "database" of sails
+WS_Sails.xlsx - A reference "database" of sails
 
 
 
