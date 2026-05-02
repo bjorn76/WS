@@ -1,10 +1,16 @@
 # WS - Windsurfing - ReadME
 
 ## GPS-Speedsurfing_Equipment_Cleanup.xls
+To keep track of the equipment clean up on
+https://www.gps-speedsurfing.com/
 
 ## GPS-Speedsurfing-Users.xlsx
+A table that generates lins to TTVK speed surfers
+https://www.gps-speedsurfing.com/
 
 ## GPS-Speedsurfing-Board-Stats.xlsx
+A table with links to Boards Statistics
+https://www.gps-speedsurfing.com/
 
 ## WS_Boards.xlsx
 A referense "database" of boards
