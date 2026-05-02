@@ -1,26 +1,21 @@
-# Project Title
-WS - Windsurfing - ReadME
+# WS - Windsurfing - ReadME
 
-## Subtitle
-WS_Sails.xlsx - A reference "database" of sailsSub
-### Section
-Notes:
+## WS_Sails.xlsx - A reference "database" of sailsSub
+### Notes:
 
-## Subtitle
-WS_Sails.xlsx - A reference "database" of sails
+## WS_Sails.xlsx - A reference "database" of sails
 
-## Subtitle
-WS_Sails.xlsx
+## WS_Sails.xlsx
 A referense "database" of sails
 
-WS_Boards.xlsx
+## WS_Boards.xlsx
 A referense "database" of boards
 
-KoF (King of the Fjord)
+## KoF (King of the Fjord)
 A folder for the TTVK's yearly speed competitions. (Weekends from May to Sep)
 
-BoardsSourceData
+## BoardsSourceData
 A folder to store Boards specs in pdf format
 
-SailsSourceData
+## SailsSourceData
 A folder to store sail specs in pdf format
