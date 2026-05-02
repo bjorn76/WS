@@ -1,9 +1,10 @@
 # WS - Windsurfing - ReadME
 
-## WS_Sails.xlsx - A reference "database" of sailsSub
-### Notes:
+## WS_Sails.xlsx
+A reference "database" of sailsS
 
-## WS_Sails.xlsx - A reference "database" of sails
+## WS_Sails.xlsx
+A reference "database" of sails
 
 ## WS_Sails.xlsx
 A referense "database" of sails
