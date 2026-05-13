@@ -1,0 +1,3 @@
+Brand	Type	Size	Year	Class
+Severne	Mach 4	5.0	2021	Slalom
+
