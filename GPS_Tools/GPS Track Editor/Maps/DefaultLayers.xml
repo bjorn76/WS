@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer path="OSM_mapnik.msl"/>
+  <layer path="OSM_cyclemap.msl"/>
+  <layer path="OSM_transport.msl"/>
+  <layer path="MapQuest_osm.msl"/>
+  <layer path="MapQuest_sat.msl"/>
+</layers>

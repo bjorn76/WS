@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette name="Footspeed">
+  <value parameter="speed" aggregate="average" />
+  <colors step="0.1">
+    <color value="0" rgb="#600000" />
+    <color value="3" rgb="#C01020" />
+    <color value="6" rgb="#FF0000" />
+    <color value="10" rgb="#FFFF00" />
+    <color value="18" rgb="#00FF00" />
+    <color value="25" rgb="#60FF80" />
+  </colors>
+</palette>

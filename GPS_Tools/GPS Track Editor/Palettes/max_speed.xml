@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette name="Max. speed">
+  <value parameter="speed" aggregate="max" />
+  <colors step="0.1">
+    <color value="0" rgb="#4040FF" />
+    <color value="5" rgb="#4080FF" />
+    <color value="20" rgb="#00FF00" />
+    <color value="60" rgb="#FFFF00" />
+    <color value="90" rgb="#FF0000" />
+    <color value="120" rgb="#C01020" />
+  </colors>
+</palette>

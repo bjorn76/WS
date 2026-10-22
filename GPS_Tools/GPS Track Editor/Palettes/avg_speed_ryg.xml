@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette name="Avg. speed 3">
+  <value parameter="speed" aggregate="average" />
+  <colors step="0.1">
+    <color value="0" rgb="#FF0000" />
+    <color value="19.8" rgb="#FF0000" />
+    <color value="20.2" rgb="#FFFF00" />
+    <color value="40" rgb="#FFFF00" />
+    <color value="50" rgb="#00FF00" />
+  </colors>
+</palette>

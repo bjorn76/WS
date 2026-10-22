@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palettes>
+  <palette path="avg_speed.xml" />
+  <palette path="max_speed.xml" />
+  <palette path="min_speed.xml" />
+  <palette path="elevation.xml" />
+  <palette path="avg_speed2.xml" />
+  <palette path="footspeed.xml" />
+  <palette path="steepness.xml" />
+  <palette path="heading.xml" />
+  <palette path="heart_rate.xml" />
+  <palette path="cadence.xml" />
+  <palette path="bike_speed.xml" />
+</palettes>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette name="Run cadence">
+  <value parameter="cadence" />
+  <colors step="1">
+    <color value="140" rgb="#4040FF" />
+    <color value="152" rgb="#4080FF" />
+    <color value="163" rgb="#00FF00" />
+    <color value="174" rgb="#FFFF00" />
+    <color value="185" rgb="#FF0000" />
+    <color value="200" rgb="#C01020" />
+  </colors>
+</palette>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette name="Heart rate">
+  <value parameter="heart_rate" />
+  <colors step="0.5">
+    <color value="50" rgb="#4040FF" />
+    <color value="80" rgb="#4080FF" />
+    <color value="120" rgb="#00FF00" />
+    <color value="160" rgb="#FFFF00" />
+    <color value="190" rgb="#FF0000" />
+    <color value="210" rgb="#C01020" />
+  </colors>
+</palette>

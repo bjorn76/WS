@@ -1,3 +1,9 @@
 Brand	Type	Size	Year	Class
-Severne	Mach 4	5.0	2021	Slalom
+Loftsails	Speedscape	4.1	2027	FreeRace
+Loftsails	Speedscape	4.7	2027	FreeRace
+Loftsails	Speedscape	5.4	2027	FreeRace
+Loftsails	Speedscape	6.0	2027	FreeRace
+Loftsails	Speedscape	6.7	2027	FreeRace
+Loftsails	Speedscape	7.4	2027	FreeRace
+Loftsails	Speedscape	8.2	2027	FreeRace
 

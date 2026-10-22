@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer guid="{A20C4E26-B15A-4f51-9663-A2733614C44A}">
+  <name>OpenStreetMap (Mapnik) - Map</name>
+  <link>http://www.opencyclemap.org</link>
+  <copyright author="(C) OpenStreetMap contributors">
+    <license>http://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <source type="osm">
+    <base_url>http://{sp}.tile.openstreetmap.org/{z}/{x}/{y}.png</base_url>
+    <server_prefix letter="abc" />
+    <coverage>
+      <zoom min="4" max="18"/>
+    </coverage>
+  </source>
+</layer>    

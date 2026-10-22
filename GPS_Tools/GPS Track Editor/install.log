@@ -1,0 +1,74 @@
+GPS Track Editor Installation Started: 2019-08-16 16:39:13
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Installation Details
+-------------------------------------------------------------------------------
+  Install Dir: C:\Program Files (x86)\GPS Track Editor
+  Product    : GPS Track Editor
+  Version    : 1.15 (build 141)
+
+
+-------------------------------------------------------------------------------
+Installing Prerequisites
+-------------------------------------------------------------------------------
+  Microsoft Visual C++ 2005 Redistributable Successfully Installed
+
+
+-------------------------------------------------------------------------------
+Installing GPS Track Editor
+-------------------------------------------------------------------------------
+  Created Directory: C:\Program Files (x86)\GPS Track Editor\Doc
+  Installed File: C:\Program Files (x86)\GPS Track Editor\GpsTrackEditor.exe
+  Installed File: C:\Program Files (x86)\GPS Track Editor\GteTrackBase.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\GteTrackIO.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\GteTrackRep.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\License.rtf
+  Created Directory: C:\Program Files (x86)\GPS Track Editor\Maps
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspBaseUI.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspCommonUI.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspCore.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspDownload.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspGps.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspMath.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspPim.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\MspUpdate.dll
+  Created Directory: C:\Program Files (x86)\GPS Track Editor\Palettes
+  Installed File: C:\Program Files (x86)\GPS Track Editor\readme.txt
+  Created Directory: C:\Program Files (x86)\GPS Track Editor\Res
+  Installed File: C:\Program Files (x86)\GPS Track Editor\tinyxml.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\ToolkitPro1122vc80U.dll
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Updater.bin
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Res\sprites.png
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\avg_gps_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\avg_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\avg_speed2.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\avg_speed_ryg.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\bike_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\cadence.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\DefaultPalettes.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\elevation.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\footspeed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\gps_heading.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\heading.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\heart_rate.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\max_gps_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\max_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\max_speed2.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\min_speed.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\run_cadence.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\steepness.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Palettes\temperature.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\DefaultLayers.xml
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\MapQuest_osm.msl
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\MapQuest_sat.msl
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\OSM_cyclemap.msl
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\OSM_mapnik.msl
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Maps\OSM_transport.msl
+  Installed File: C:\Program Files (x86)\GPS Track Editor\Doc\TrackEditor_Shortcuts.html
+  Temporary Directory Removed: C:\Users\bjorn\AppData\Local\Temp\nsx12D3.tmp
+
+
+-------------------------------------------------------------------------------
+GPS Track Editor Installation Finished: 2019-08-16 16:39:21

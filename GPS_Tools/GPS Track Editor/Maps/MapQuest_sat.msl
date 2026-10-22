@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer guid="{320C4E26-B15A-4f51-9663-A2733614C44A}">
+  <name>MapQuest - OSM - Sat</name>
+  <link>http://www.mapquest.org</link>
+  <copyright author="Tiles Courtesy of MapQuest">
+    <license>http://www.mapquest.com</license>
+  </copyright>
+  <source type="osm">
+    <base_url>http://otile{sp}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg</base_url>
+    <server_prefix letter="1234" />
+    <coverage>
+      <zoom min="4" max="18"/>
+    </coverage>
+  </source>
+</layer>    
